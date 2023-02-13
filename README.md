@@ -1,2 +1,2 @@
-Drum tool 
-(Special thanks to Angela Yu!)
+It's Drum project, made for fun !
+
